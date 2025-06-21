@@ -9,6 +9,6 @@
 - 1_redux_basics.md – Основы Redux: стор, экшены, редьюсеры.
 - 2_redux_toolkit.md – Redux Toolkit: createSlice, createAsyncThunk.
 - 3_redux_hooks.md – Хуки Redux: useDispatch, useSelector.
-- 4_apollo_graphql.md – Управление состоянием с помощью Apollo GraphQL
+- 4_apollo_graphql.md – Управление состоянием с помощью Apollo GraphQL.
 - 5_alternative_state.md – Альтернативы Redux: Context API, Zustand, Recoil.
 - 6_state_comparison.md – Сравнение подходов: Redux и альтернативы.
